@@ -8,5 +8,5 @@
     "scripts": [ "index.js" ],
     "url": "https://github.com/tsicroxe/portentier",
     "manifest": "https://github.com/tsicroxe/portentier/releases/download/latest/module.json",
-    "download": "https://github.com/tsicroxe/portentier/releases/download/latest/my-module.zip"
+    "download": "https://github.com/tsicroxe/portentier/releases/download/latest/portentier.zip"
 }
