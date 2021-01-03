@@ -3,7 +3,7 @@
     "title": "Portentier",
     "description": "A simple module created as a way for a player to keep track of her portent dice.",
     "author": "tsicroxE",
-    "version": "{{ version }}",
+    "version": "1.0.2",
     "minimumCoreVersion": "0.7.6",
     "scripts": [ "index.js" ],
     "url": "https://github.com/tsicroxe/portentier",
